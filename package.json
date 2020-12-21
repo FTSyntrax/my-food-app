@@ -1,7 +1,7 @@
 {
   "name": "my-food-app",
   "version": "0.1.0",
-  "homepage": "http://ftsyntrax.github.io/my-food-app",
+  "homepage": "http://ftsyntrax.github.io/my-food-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
