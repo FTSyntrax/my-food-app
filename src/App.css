@@ -1,10 +1,13 @@
 .App {
   min-height: 100vh;
   background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+  padding-top: 1.5rem;
 }
 
 .App h1 {
   margin-top: 0;
+  text-align: center;
+
 }
 
 .search-form {
